@@ -7,13 +7,12 @@
 - 🔭 I’m currently working on [Globalsys](http://www.globalsys.com.br/index.html)
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about: 
-  * English / Javascript / HTML / CSS / SQL / Mysql / .NET  
+  * Node / Javascript / HTML / CSS / SQL / Mysql / .NET / React / Mongodb / Oracle / 
   * And what you want, feel free...
 
 📫 Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-vinicius-465329b1/)](https://www.linkedin.com/in/thiago-vinicius-465329b1/)
-
 
 <!-- Vertical Spacer -->
 <p></p>
