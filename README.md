@@ -4,10 +4,10 @@
 <sub>ㅤ</sub>
 ![](https://komarev.com/ghpvc/?username=tviniciusas&style=flat-square&color=13b982&label=Profile%20views)
 
-- 🔭 I’m currently working on [Stefanini](https://stefanini.com/pt-br)
+- 🔭 I’m currently working on [Globalsys](http://www.globalsys.com.br/index.html)
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about: 
-  * English / Javascript / HTML / CSS / SQL / Angular / .NET / Scrum 
+  * English / Javascript / HTML / CSS / SQL / Mysql / .NET  
   * And what you want, feel free...
 
 📫 Reach me out 👇
@@ -52,5 +52,4 @@
 <code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
 
-### Repository with a mini-project using NodeJS, TypeORM, JWT authentication and SQLite database. Check it out, it's pretty cool!
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tviniciusas&repo=NLW-Rocketseat-NodeJS&bg_color=ffffff00&text_color=666666)](https://github.com/tviniciusas/NLW-Rocketseat-NodeJS) 
+
