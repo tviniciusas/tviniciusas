@@ -46,7 +46,6 @@
 ### Some technologies I like...
 <code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
 <code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
-<code><img alt="Sass" title="Sass" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></code> 
 <code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
 
