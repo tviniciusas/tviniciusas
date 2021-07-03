@@ -36,11 +36,8 @@
 <code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
 <code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
 <code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
-<code><img alt="Angular" title="Angular" height="50" src="https://user-images.githubusercontent.com/38081852/120406321-f0b9a480-c320-11eb-8bb8-6f22e95a8eff.png"></code>
 <code><img alt="NodeJS" title="NodeJS" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="CSharp" title="C Sharp" height="48" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"></code>
-<code><img alt="C" title="C" height="52" src="https://user-images.githubusercontent.com/57419630/122760833-efb9ca00-d271-11eb-9348-539c0edeee34.png"></code>
-<code><img alt="C++" title="C++" height="48" src="https://user-images.githubusercontent.com/57419630/122760869-fcd6b900-d271-11eb-806d-74555059b5c7.png"></code>
 
 ### Some technologies I like...
 <code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
