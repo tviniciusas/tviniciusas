@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Globalsys](http://www.globalsys.com.br/index.html)
 - 🌱 I’m currently learning React.JS
 - 💬 Ask me about: 
-  * Node / Javascript / HTML / CSS / SQL / Mysql / .NET / React / Mongodb / Oracle / Clean Code
+  * Node / Javascript / HTML / CSS / SQL / .NET / React / Mongodb / Oracle / Clean Code / TDD
   * And what you want, feel free...
 
 📫 Reach me out 👇
