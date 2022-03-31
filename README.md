@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=tviniciusas&style=flat-square&color=13b982&label=Profile%20views)
 
 - 🔭 I’m currently working on [Globalsys](http://www.globalsys.com.br/index.html)
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning AngularJS | React.JS
 - 💬 Ask me about: 
   * Node / Javascript / HTML / CSS / SQL / .NET / React / Mongodb / Oracle / Clean Code / TDD
   * And what you want, feel free...
