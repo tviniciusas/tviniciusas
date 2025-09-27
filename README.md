@@ -12,7 +12,7 @@
 
 📫 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-vinicius-465329b1/)](https://www.linkedin.com/in/thiago-vinicius-465329b1/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-vinicius-465329b1/)](https://www.linkedin.com/in/tviniciusas/)
 
 <!-- Vertical Spacer -->
 <p></p>
