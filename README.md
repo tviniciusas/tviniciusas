@@ -17,11 +17,6 @@
 <!-- Vertical Spacer -->
 <p></p>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tviniciusas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tviniciusas&layout=compact&langs_count=16&theme=monokai"/>
-    <img onclick="https://github.com/tviniciusas/" align="center"   src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
-</div>
 
 <!-- Vertical Spacer -->
 <p></p>
