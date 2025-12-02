@@ -4,7 +4,6 @@
 <sub>ㅤ</sub>
 ![](https://komarev.com/ghpvc/?username=tviniciusas&style=flat-square&color=13b982&label=Profile%20views)
 
-- 🔭 I’m currently working on [Reserva](http://https://www.usereserva.com/)
 - 🌱 I’m currently learning Abap
 - 💬 Ask me about: 
   * Node / Javascript / HTML / CSS / SQL / .NET / Angular / Mongodb / Oracle / Clean Code / TDD
