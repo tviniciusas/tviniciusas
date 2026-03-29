@@ -1,42 +1,50 @@
-### Hi there 👋, I'm Thiago Vinicius
+<h1 align="center">Hi there 👋, I'm Thiago Vinicius</h1>
+<h3 align="center">Software Engineer | AI Enthusiast | Tech Founder</h3>
 
-[![GitHub tviniciusas](https://img.shields.io/github/followers/tviniciusas?label=follow&style=social)](https://github.com/tviniciusas)
-<sub>ㅤ</sub>
-![](https://komarev.com/ghpvc/?username=tviniciusas&style=flat-square&color=13b982&label=Profile%20views)
+<p align="center">
+  <a href="https://github.com/tviniciusas">
+    <img src="https://img.shields.io/github/followers/tviniciusas?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/tviniciusas/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tviniciusas&style=flat-square&color=13b982&label=Profile%20views" alt="Profile views" />
+</p>
 
-- 🌱 I’m currently learning Abap
-- 💬 Ask me about: 
-  * Node / Javascript / HTML / CSS / SQL / .NET / Angular / Mongodb / Oracle / Clean Code / TDD
-  * And what you want, feel free...
+---
 
-📫 Reach me out 👇
+### 🚀 Featured Work
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-vinicius-465329b1/)](https://www.linkedin.com/in/tviniciusas/)
+- 🏢 **[ST Tech](https://www.sttech.com.br/)** - Founder. Providing enterprise-grade software development and technology solutions.
+- 🔥 **[OllamaFire](https://ollamafire.com/)** - Creator. My flagship product focused on Artificial Intelligence and local LLMs.
 
-<!-- Vertical Spacer -->
-<p></p>
+---
 
+### 👨‍💻 About Me
 
-<!-- Vertical Spacer -->
-<p></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tviniciusas&theme=monokai" alt="tviniciusas" height="158"/>
+- 🔭 Currently building scalable systems and integrating **Artificial Intelligence** solutions into practical applications.
+- 🌱 Currently learning **ABAP**.
+- 💬 Ask me about: **.NET, C#, React, Node.js, Software Architecture (DDD, SOLID), Clean Code, and TDD.**
 
-<!-- Trophies -->
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tviniciusas&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="tviniciusas" /></a> </p>-->
+---
 
-### Some programming languages I'd love to talk about...
+### 🛠️ Technologies & Tools
 
-<code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
-<code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
-<code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
-<code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
-<code><img alt="NodeJS" title="NodeJS" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img alt="CSharp" title="C Sharp" height="48" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png"></code>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css" alt="Languages and Frameworks" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=oracle,postgres,mongodb,docker,nginx,vscode,github" alt="Databases and Tools" />
+  </a>
+</p>
 
-### Some technologies I like...
-<code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png"></code>
-<code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png"></code>
-<code><img alt="Bootstrap" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
+---
 
+### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tviniciusas&theme=monokai&hide_border=true" alt="GitHub Streak" />
+</p>
